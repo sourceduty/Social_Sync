@@ -8,6 +8,9 @@
 The tool is especially valuable for users aiming to grow in both personal and career dimensions. By providing a structured way to compare and synchronize their traits with others, Social Sync offers actionable insights into how one can develop a balanced and effective profile for personal or professional advancement. Whether someone is looking to enhance their empathy, become a more effective communicator, or build stronger leadership qualities, Social Sync provides guidance on specific traits to focus on, making it easier for users to work toward their personal goals in a targeted way.
 
 #
+![Prism Town](https://github.com/user-attachments/assets/ce879d75-d13f-4c94-9e0e-d297ab84483b)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
